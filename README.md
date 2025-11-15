@@ -24,22 +24,20 @@ Telepítéskor **pip** és **Add Python to PATH** legyen bepipálva.
 Ellenőrzés:
 ```sh
 python --version
-
+```
 ### VS Code előkészítése
 Telepítendő bővítmények:
 
 ```sh
 python -m venv venv
-```sh
 python --version where python
-
+```
 Könyvtár telepítése:
 ```sh
 pip install -r requirements.txt
-
+```
 Projekt futtatása:
 ```sh
 python src/demo_main.py
+```
 
-
-python src/demo_main.py
